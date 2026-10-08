@@ -1988,5 +1988,15 @@
   "ChatGPT is waiting for your approval": "ChatGPT đang chờ bạn phê duyệt",
   "A chat is paused until you allow or deny a tool call in ChatGPT. Click to open it.": "Một cuộc trò chuyện tạm dừng cho đến khi bạn cho phép hoặc từ chối một lệnh gọi công cụ trong ChatGPT. Nhấp để mở.",
   "ChatGPT is waiting for you to allow or deny a tool call in this chat. Nothing continues until you answer it there.": "ChatGPT đang chờ bạn cho phép hoặc từ chối một lệnh gọi công cụ trong cuộc trò chuyện này. Không có gì tiếp tục cho đến khi bạn trả lời ở đó.",
-  "The tool approval ChatGPT asked for in this chat was answered.": "Yêu cầu phê duyệt công cụ mà ChatGPT đưa ra trong cuộc trò chuyện này đã được trả lời."
+  "The tool approval ChatGPT asked for in this chat was answered.": "Yêu cầu phê duyệt công cụ mà ChatGPT đưa ra trong cuộc trò chuyện này đã được trả lời.",
+  "Stay aware before an agent uses your mouse or keyboard.": "Luôn được thông báo trước khi tác nhân dùng chuột hoặc bàn phím.",
+  "Warn before desktop control": "Cảnh báo trước khi điều khiển máy tính",
+  "Wait 10 seconds before native mouse, keyboard or focus input. Start immediately or stop that caller from the notice.": "Chờ 10 giây trước khi nhập chuột, bàn phím hoặc thay đổi tiêu điểm ở cấp hệ thống. Bắt đầu ngay hoặc dừng bên gọi đó từ thông báo.",
+  "{0} is about to control your desktop.": "{0} sắp điều khiển máy tính của bạn.",
+  "Starting automatically in {0} seconds.": "Tự động bắt đầu sau {0} giây.",
+  "Starting automatically in 1 second.": "Tự động bắt đầu sau 1 giây.",
+  "Start now": "Bắt đầu ngay",
+  "Desktop control stopped": "Đã dừng điều khiển máy tính",
+  "{0} cannot send desktop input until you allow it again.": "{0} không thể gửi thao tác nhập trên máy tính cho đến khi bạn cho phép lại.",
+  "Allow again": "Cho phép lại"
 }

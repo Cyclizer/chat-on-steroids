@@ -1988,5 +1988,15 @@
   "ChatGPT is waiting for your approval": "ChatGPT 正在等待你的批准",
   "A chat is paused until you allow or deny a tool call in ChatGPT. Click to open it.": "一个聊天已暂停，直到你在 ChatGPT 中允许或拒绝一次工具调用。点击打开。",
   "ChatGPT is waiting for you to allow or deny a tool call in this chat. Nothing continues until you answer it there.": "ChatGPT 正在等待你允许或拒绝此聊天中的一次工具调用。在你于那里作答之前，不会继续。",
-  "The tool approval ChatGPT asked for in this chat was answered.": "ChatGPT 在此聊天中请求的工具批准已得到回应。"
+  "The tool approval ChatGPT asked for in this chat was answered.": "ChatGPT 在此聊天中请求的工具批准已得到回应。",
+  "Stay aware before an agent uses your mouse or keyboard.": "在代理使用鼠标或键盘之前提醒你。",
+  "Warn before desktop control": "桌面控制前提醒",
+  "Wait 10 seconds before native mouse, keyboard or focus input. Start immediately or stop that caller from the notice.": "在原生鼠标、键盘或焦点输入前等待 10 秒。可从通知中立即开始，或停止该调用方。",
+  "{0} is about to control your desktop.": "{0} 即将控制你的桌面。",
+  "Starting automatically in {0} seconds.": "将在 {0} 秒后自动开始。",
+  "Starting automatically in 1 second.": "将在 1 秒后自动开始。",
+  "Start now": "立即开始",
+  "Desktop control stopped": "桌面控制已停止",
+  "{0} cannot send desktop input until you allow it again.": "在你再次允许之前，{0} 无法发送桌面输入。",
+  "Allow again": "再次允许"
 }

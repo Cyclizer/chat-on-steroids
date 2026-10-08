@@ -1988,5 +1988,15 @@
   "ChatGPT is waiting for your approval": "ChatGPT ждёт вашего разрешения",
   "A chat is paused until you allow or deny a tool call in ChatGPT. Click to open it.": "Чат приостановлен, пока вы не разрешите или не отклоните вызов инструмента в ChatGPT. Нажмите, чтобы открыть его.",
   "ChatGPT is waiting for you to allow or deny a tool call in this chat. Nothing continues until you answer it there.": "ChatGPT ждёт, пока вы разрешите или отклоните вызов инструмента в этом чате. Ничего не продолжится, пока вы не ответите там.",
-  "The tool approval ChatGPT asked for in this chat was answered.": "На запрос ChatGPT о разрешении инструмента в этом чате дан ответ."
+  "The tool approval ChatGPT asked for in this chat was answered.": "На запрос ChatGPT о разрешении инструмента в этом чате дан ответ.",
+  "Stay aware before an agent uses your mouse or keyboard.": "Получайте предупреждение перед тем, как агент начнёт использовать мышь или клавиатуру.",
+  "Warn before desktop control": "Предупреждать перед управлением рабочим столом",
+  "Wait 10 seconds before native mouse, keyboard or focus input. Start immediately or stop that caller from the notice.": "Подождать 10 секунд перед нативным вводом мышью, клавиатурой или сменой фокуса. Можно начать сразу или остановить этого вызывающего из уведомления.",
+  "{0} is about to control your desktop.": "{0} собирается управлять вашим рабочим столом.",
+  "Starting automatically in {0} seconds.": "Автоматический запуск через {0} сек.",
+  "Starting automatically in 1 second.": "Автоматический запуск через 1 сек.",
+  "Start now": "Начать сейчас",
+  "Desktop control stopped": "Управление рабочим столом остановлено",
+  "{0} cannot send desktop input until you allow it again.": "{0} не может отправлять ввод на рабочий стол, пока вы снова не разрешите это.",
+  "Allow again": "Разрешить снова"
 }

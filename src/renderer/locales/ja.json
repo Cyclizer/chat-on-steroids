@@ -1988,5 +1988,15 @@
   "ChatGPT is waiting for your approval": "ChatGPT があなたの承認を待っています",
   "A chat is paused until you allow or deny a tool call in ChatGPT. Click to open it.": "ChatGPT でツール呼び出しを許可または拒否するまで、チャットは一時停止しています。クリックして開きます。",
   "ChatGPT is waiting for you to allow or deny a tool call in this chat. Nothing continues until you answer it there.": "ChatGPT はこのチャットでツール呼び出しを許可するか拒否するかを待っています。そこで応答するまで何も進みません。",
-  "The tool approval ChatGPT asked for in this chat was answered.": "このチャットで ChatGPT が求めたツールの承認に応答しました。"
+  "The tool approval ChatGPT asked for in this chat was answered.": "このチャットで ChatGPT が求めたツールの承認に応答しました。",
+  "Stay aware before an agent uses your mouse or keyboard.": "エージェントがマウスやキーボードを使用する前に通知します。",
+  "Warn before desktop control": "デスクトップ操作の前に警告",
+  "Wait 10 seconds before native mouse, keyboard or focus input. Start immediately or stop that caller from the notice.": "ネイティブのマウス、キーボード、またはフォーカス操作の前に10秒待機します。通知からすぐに開始するか、その呼び出し元を停止できます。",
+  "{0} is about to control your desktop.": "{0} がデスクトップを操作しようとしています。",
+  "Starting automatically in {0} seconds.": "{0}秒後に自動的に開始します。",
+  "Starting automatically in 1 second.": "1秒後に自動的に開始します。",
+  "Start now": "今すぐ開始",
+  "Desktop control stopped": "デスクトップ操作を停止しました",
+  "{0} cannot send desktop input until you allow it again.": "再び許可するまで、{0} はデスクトップ入力を送信できません。",
+  "Allow again": "再び許可"
 }

@@ -1988,5 +1988,15 @@
   "ChatGPT is waiting for your approval": "O ChatGPT está aguardando sua aprovação",
   "A chat is paused until you allow or deny a tool call in ChatGPT. Click to open it.": "Um chat está pausado até você permitir ou negar uma chamada de ferramenta no ChatGPT. Clique para abri-lo.",
   "ChatGPT is waiting for you to allow or deny a tool call in this chat. Nothing continues until you answer it there.": "O ChatGPT está aguardando você permitir ou negar uma chamada de ferramenta neste chat. Nada continua até você responder lá.",
-  "The tool approval ChatGPT asked for in this chat was answered.": "A aprovação de ferramenta que o ChatGPT pediu neste chat foi respondida."
+  "The tool approval ChatGPT asked for in this chat was answered.": "A aprovação de ferramenta que o ChatGPT pediu neste chat foi respondida.",
+  "Stay aware before an agent uses your mouse or keyboard.": "Fique ciente antes que um agente use o mouse ou o teclado.",
+  "Warn before desktop control": "Avisar antes do controle do desktop",
+  "Wait 10 seconds before native mouse, keyboard or focus input. Start immediately or stop that caller from the notice.": "Aguarde 10 segundos antes de entrada nativa de mouse, teclado ou foco. Inicie imediatamente ou interrompa esse solicitante pela notificação.",
+  "{0} is about to control your desktop.": "{0} está prestes a controlar seu desktop.",
+  "Starting automatically in {0} seconds.": "Início automático em {0} segundos.",
+  "Starting automatically in 1 second.": "Início automático em 1 segundo.",
+  "Start now": "Iniciar agora",
+  "Desktop control stopped": "Controle do desktop interrompido",
+  "{0} cannot send desktop input until you allow it again.": "{0} não pode enviar entradas para o desktop até que você permita novamente.",
+  "Allow again": "Permitir novamente"
 }
