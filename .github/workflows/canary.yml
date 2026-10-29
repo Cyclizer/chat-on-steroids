@@ -1,7 +1,7 @@
 name: Canary
 
-# Test builds of main, published as one rolling prerelease at the fixed `canary` tag. Every push
-# to main that can change the app builds one; it can also be started by hand:
+# Test builds of main, published as one rolling prerelease at the fixed `canary` tag.
+# Owner-directed shutdown of automatic hosted test builds: manually dispatch only:
 #   gh workflow run canary.yml --ref main
 #
 # Not a release. It builds the same candidate as publish.yml (release.yml) and attaches it
@@ -10,23 +10,13 @@ name: Canary
 # releases/latest, which never returns a prerelease, so no stable install is offered a canary,
 # and a canary install is offered the next stable release as usual.
 on:
-  push:
-    branches: [main]
-    # Changes that cannot change the packaged app do not need a new build.
-    paths-ignore:
-      - '**/*.md'
-      - 'docs/**'
-      - 'test/**'
-      - '.github/ISSUE_TEMPLATE/**'
-      - '.github/pull_request_template.md'
   workflow_dispatch:
 
 permissions:
   contents: read
 
-# Never cancel a run in progress: a replacement is staged and verified as a private draft before
-# the fixed public canary is swapped. GitHub keeps only the newest waiting run in the group, so a
-# burst of merges still converges on one build of the latest app-relevant main.
+# Never cancel a manually dispatched run in progress: a replacement is staged and verified
+# as a private draft before the fixed public canary is swapped.
 concurrency:
   group: canary
   cancel-in-progress: false
